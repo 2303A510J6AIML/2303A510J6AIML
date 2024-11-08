@@ -8,3 +8,5 @@ lab[1] https://github.com/2303A510J6AIML/2303A510J6AIML/blob/main/Untitled1.ipyn
 lab[3]  https://github.com/2303A510J6AIML/2303A510J6AIML/blob/main/Untitled3.ipynb
 
 lab[5] https://github.com/2303A510J6AIML/2303A510J6AIML/blob/main/Untitled5.ipynb
+
+lab[8] https://github.com/2303A510J6AIML/2303A510J6AIML/blob/main/Untitled25.ipynb%20lab%208
