@@ -10,3 +10,5 @@ lab[3]  https://github.com/2303A510J6AIML/2303A510J6AIML/blob/main/Untitled3.ipy
 lab[5] https://github.com/2303A510J6AIML/2303A510J6AIML/blob/main/Untitled5.ipynb
 
 lab[8] https://github.com/2303A510J6AIML/2303A510J6AIML/blob/main/Untitled25.ipynb%20lab%208
+
+lab[9] https://github.com/2303A510J6AIML/2303A510J6AIML/blob/main/Untitled9.ipynb
