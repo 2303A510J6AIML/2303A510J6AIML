@@ -12,3 +12,5 @@ lab[5] https://github.com/2303A510J6AIML/2303A510J6AIML/blob/main/Untitled5.ipyn
 lab[8] https://github.com/2303A510J6AIML/2303A510J6AIML/blob/main/Untitled25.ipynb%20lab%208
 
 lab[9] https://github.com/2303A510J6AIML/2303A510J6AIML/blob/main/Untitled9.ipynb
+
+lab[10]  https://github.com/2303A510J6AIML/2303A510J6AIML/blob/main/Lab10_KMeans.ipynb
